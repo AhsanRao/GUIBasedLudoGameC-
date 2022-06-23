@@ -1,8 +1,8 @@
 # GUILudoGameCpp
 GUI Based Ludo Game in C++
 
+How To Run:
 
-How To Run
 To execute the code, you need to do the following:
 a) Extract the attached zip file.
 b) Open the terminal and navigate to the path of extracted directory
